@@ -11,7 +11,6 @@ Solução em **ROS 2** para o desafio de navegação autônoma em labirinto util
 
 ```text
 .
-├── Ponderada_Navegacao_Autonoma.pdf   # Enunciado da atividade
 ├── generate_maze.py                   # Gerador de labirintos do simulador
 ├── lobotomy_kaisen/                   # Imagens de vitória do simulador
 └── src/
