@@ -6,3 +6,4 @@ __pycache__/
 .pytest_cache/
 *.egg-info/
 mapped_maze.csv
+Ponderada_Navegacao_Autonoma.pdf
